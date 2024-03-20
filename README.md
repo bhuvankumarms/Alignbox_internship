@@ -5,4 +5,4 @@ The webpage that i cloned: https://www.elfster.com/secret-santa-generator
 
 The code is written in pure HTML, CSS and JS without the use of any library, framework etc
 
-Try it out from yourself: 
+Cloned Webpage: https://bhuvankumarms.github.io/Alignbox_internship/
